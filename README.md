@@ -10,8 +10,6 @@ The database consists of several dimension tables—customer, product, order, an
 
 Key SQL functions and techniques used include `JOIN`, `GROUP BY`, `ORDER BY`, `WINDOW FUNCTIONS`, and `COMMON TABLE EXPRESSIONS (CTE)`.
 
-This project serves as a comprehensive example of how SQL can be used to derive actionable insights from sales and delivery data, aiding in decision-making processes for businesses.
-
 ## Database Structure
 - **cust_dimen**: Customer details
 - **market_fact**: Sales data
