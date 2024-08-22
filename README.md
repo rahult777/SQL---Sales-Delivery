@@ -1,7 +1,7 @@
 # SQL---Sales-Delivery
 
 ## Overview
-The "Sales and Delivery" project is designed to analyze sales data and customer delivery performance using advanced SQL queries. By integrating data from multiple tables, this project extracts valuable insights into customer behavior, product performance, and operational efficiency.
+The "Sales and Delivery" project is designed to analyze sales data and customer delivery performance using mid to advanced SQL queries. By integrating data from multiple tables, this project extracts valuable insights into customer behavior, product performance, and operational efficiency.
 
 The database consists of several dimension tables—customer, product, order, and shipping details—alongside a fact table that captures transactional data. The project addresses key business questions, such as identifying top-performing customers, analyzing delivery times, and calculating total sales and profit per product.
 
